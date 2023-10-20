@@ -1,0 +1,81 @@
+﻿@page
+@model LMSWeb.Pages.Books.IndexModel
+@{
+
+}
+<h2 class="lms-section-heading">
+    Book Details
+</h2>
+
+<div class="d-flex justify-content-between align-items-left">
+    <a asp-page="Create" class="btn btn-primary">Add New Book</a>
+</div>
+<div class="row">
+    <div class="container container-fluid">
+        <table class="table table-sm table-responsive-sm">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">ISBN</th>
+                    <th scope="col">Author</th>
+                    <th scope="col">Publisher</th>
+                    <th scope="col">MaxIssueDays</th>
+                    <th scope="col">Available</th>
+                    <th scope="col">OnDate</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tbody>
+                    @foreach (var item in Model.booksentities)
+                    {
+                    <tr>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td width="150">
+                                @Html.DisplayFor(modelItem => item.Title)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Isbn)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Author)
+                        </td>
+
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Publisher)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.MaxIssueDays)
+                        </td>
+                       
+                        <td>
+                                @if (item.Available == false)
+                                {
+                                <span class="badge bg-success">Available</span>
+                                }
+                                else
+                                {
+                                <span class="badge bg-danger">Not Available</span>
+                                }
+                        </td>
+                        <td>
+                                @item.OnDate.Value.ToString("dd-MM-yyyy")
+                        </td>
+                        <td width="170">
+                            <a asp-page="Edit" asp-route-id="@item.Id">Edit</a>
+                                @*  <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>|<a asp-action="Details" asp-route-id="@item.Id">Details</a>  " asp-page="/Books/Index" *@|
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                        </td>
+                    </tr>
+                    }
+            </tbody>
+
+
+        </table>
+
+    </div>
+</div>

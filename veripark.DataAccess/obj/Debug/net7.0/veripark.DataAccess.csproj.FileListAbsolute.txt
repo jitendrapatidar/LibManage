@@ -1,0 +1,14 @@
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.csproj.AssemblyReference.cache
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.AssemblyInfoInputs.cache
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.AssemblyInfo.cs
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.csproj.CoreCompileInputs.cache
+E:\LMS\LMSystem\veripark.DataAccess\bin\Debug\net7.0\veripark.DataAccess.deps.json
+E:\LMS\LMSystem\veripark.DataAccess\bin\Debug\net7.0\veripark.DataAccess.runtimeconfig.json
+E:\LMS\LMSystem\veripark.DataAccess\bin\Debug\net7.0\veripark.DataAccess.dll
+E:\LMS\LMSystem\veripark.DataAccess\bin\Debug\net7.0\veripark.DataAccess.pdb
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.dll
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\refint\veripark.DataAccess.dll
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.pdb
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\veripark.DataAccess.genruntimeconfig.cache
+E:\LMS\LMSystem\veripark.DataAccess\obj\Debug\net7.0\ref\veripark.DataAccess.dll

@@ -1,0 +1,53 @@
+﻿@page
+@* @model LMS.Web.Pages.Book.CreateModel *@
+@model veripark.ViewMode.Entities.BooksEntity
+
+@{
+    ViewData["Title"] = "Add New Book";
+}
+ 
+
+<form asp-action="Create" class="row g-2">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-12">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+     <div class="col-12">
+        <label asp-for="Isbn" class="form-label"></label>
+        <input asp-for="Isbn" class="form-control" />
+        <span asp-validation-for="Isbn" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <label asp-for="Author" class="form-label"></label>
+        <textarea asp-for="Author" class="form-control"></textarea>
+        <span asp-validation-for="Author" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="Publisher" class="form-label"></label>
+        <input asp-for="Publisher" class="form-control" />
+        <span asp-validation-for="Publisher" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="MaxIssueDays" class="form-label"></label>
+        <input asp-for="MaxIssueDays" class="form-control" />
+        <span asp-validation-for="MaxIssueDays" class="text-danger"></span>
+    </div>
+   
+    <div class="col-12">
+        <label asp-for="Available" class="form-label"></label>
+        <input asp-for="Available" class="form-check-input" />
+        <span asp-validation-for="Available" class="text-danger"></span>
+    </div>
+    
+    <div class="col-12">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+ 
+    <a asp-page="Index" class="btn btn-primary">Back to List</a>
+</div>

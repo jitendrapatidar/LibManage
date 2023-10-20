@@ -1,0 +1,11 @@
+E:\LMS\LMSystem\veripark.ViewMode\bin\Debug\net7.0\veripark.ViewMode.deps.json
+E:\LMS\LMSystem\veripark.ViewMode\bin\Debug\net7.0\veripark.ViewMode.dll
+E:\LMS\LMSystem\veripark.ViewMode\bin\Debug\net7.0\veripark.ViewMode.pdb
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.AssemblyInfoInputs.cache
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.AssemblyInfo.cs
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.csproj.CoreCompileInputs.cache
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.dll
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\refint\veripark.ViewMode.dll
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\veripark.ViewMode.pdb
+E:\LMS\LMSystem\veripark.ViewMode\obj\Debug\net7.0\ref\veripark.ViewMode.dll

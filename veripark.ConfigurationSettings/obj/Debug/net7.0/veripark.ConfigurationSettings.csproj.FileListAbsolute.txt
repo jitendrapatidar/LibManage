@@ -1,0 +1,11 @@
+E:\LMS\LMSystem\veripark.ConfigurationSettings\bin\Debug\net7.0\veripark.ConfigurationSettings.deps.json
+E:\LMS\LMSystem\veripark.ConfigurationSettings\bin\Debug\net7.0\veripark.ConfigurationSettings.dll
+E:\LMS\LMSystem\veripark.ConfigurationSettings\bin\Debug\net7.0\veripark.ConfigurationSettings.pdb
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.AssemblyInfoInputs.cache
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.AssemblyInfo.cs
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.csproj.CoreCompileInputs.cache
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.dll
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\refint\veripark.ConfigurationSettings.dll
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\veripark.ConfigurationSettings.pdb
+E:\LMS\LMSystem\veripark.ConfigurationSettings\obj\Debug\net7.0\ref\veripark.ConfigurationSettings.dll

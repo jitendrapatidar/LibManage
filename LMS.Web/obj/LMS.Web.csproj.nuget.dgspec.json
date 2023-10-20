@@ -1,0 +1,530 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\LMS\\LMSystem\\LMS.Web\\LMS.Web.csproj": {}
+  },
+  "projects": {
+    "E:\\LMS\\LMSystem\\LMS.Web\\LMS.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\LMS.Web\\LMS.Web.csproj",
+        "projectName": "LMS.Web",
+        "projectPath": "E:\\LMS\\LMSystem\\LMS.Web\\LMS.Web.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\LMS.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.Infrastructure\\veripark.Infrastructure.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.Infrastructure\\veripark.Infrastructure.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj",
+        "projectName": "veripark.ConfigurationSettings",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj",
+        "projectName": "veripark.Core",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj",
+        "projectName": "veripark.DataAccess",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "EntityFrameworkCore.Triggered": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.Infrastructure\\veripark.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.Infrastructure\\veripark.Infrastructure.csproj",
+        "projectName": "veripark.Infrastructure",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.Infrastructure\\veripark.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj",
+        "projectName": "veripark.UnitofWork",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.UnitofWork\\veripark.UnitofWork.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.UnitofWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.ConfigurationSettings\\veripark.ConfigurationSettings.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.Core\\veripark.Core.csproj"
+              },
+              "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj": {
+                "projectPath": "E:\\LMS\\LMSystem\\veripark.DataAccess\\veripark.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EFCore.BulkExtensions": {
+              "target": "Package",
+              "version": "[7.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj",
+        "projectName": "veripark.ViewMode",
+        "projectPath": "E:\\LMS\\LMSystem\\veripark.ViewMode\\veripark.ViewMode.csproj",
+        "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
+        "outputPath": "E:\\LMS\\LMSystem\\veripark.ViewMode\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
