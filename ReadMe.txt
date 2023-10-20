@@ -1,0 +1,1 @@
+Library management is a sub-discipline of institutional management that focuses on specific issues faced by libraries and library management professionals.
